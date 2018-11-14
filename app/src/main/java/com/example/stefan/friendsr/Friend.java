@@ -7,6 +7,7 @@ public class Friend implements Serializable {
     private int drawableId;
     private float rating;
 
+    // Constructor
     public Friend(String name, String bio, int drawableId) {
         this.name = name;
         this.bio = bio;
