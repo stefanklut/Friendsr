@@ -25,6 +25,7 @@ public class ProfileActivity extends AppCompatActivity {
         TextView name = findViewById(R.id.textViewName);
         TextView bio = findViewById(R.id.textViewBio);
         ImageView avatar = findViewById(R.id.imageViewAvatar);
+
         RatingBar ratingBar = findViewById(R.id.ratingBar);
 
         // Set the values of the views based on the values of the friend
