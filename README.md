@@ -15,10 +15,10 @@ even after the phone is shut down.
 ## Screenshots
 
 ### Opening Screen:
-<img src="doc/Screenshot_20181114-131531.png" width="50%">
+<img src="doc/Screenshot_20181114-131531.png" width="30%">
 
 ### Detailed friend screen:
-<img src="doc/Screenshot_20181114-131545.png" width="50%">
+<img src="doc/Screenshot_20181114-131545.png" width="30%">
 
 ### Landscape mode:
-<img src="doc/Screenshot_20181114-131558.png" width="100%">
+<img src="doc/Screenshot_20181114-131558.png" width="60%">
